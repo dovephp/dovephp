@@ -334,16 +334,16 @@
         },
         {
             "name": "dovephp/framework",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dovephp/framework.git",
-                "reference": "029a49c35d74464c43ed6fbe3e81072576c5bfbd"
+                "reference": "8461ffb3b6f0e969a9a9cfdc1d3d27727f1da359"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dovephp/framework/zipball/029a49c35d74464c43ed6fbe3e81072576c5bfbd",
-                "reference": "029a49c35d74464c43ed6fbe3e81072576c5bfbd",
+                "url": "https://api.github.com/repos/dovephp/framework/zipball/8461ffb3b6f0e969a9a9cfdc1d3d27727f1da359",
+                "reference": "8461ffb3b6f0e969a9a9cfdc1d3d27727f1da359",
                 "shasum": ""
             },
             "require": {
@@ -391,7 +391,7 @@
                 }
             ],
             "description": "The DovePHP Framework's core components",
-            "time": "2018-05-14T04:10:31+00:00"
+            "time": "2018-05-14T04:42:37+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
